@@ -2,14 +2,16 @@ nav {
   background-color:Green;
 }
   
-  .white{
+.white{
     color:white;
+    
     
 }
   
 .row{
-  font-size:16px; 
+  font-size:17px; 
   font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+  
     
   }
   
@@ -32,6 +34,7 @@ span{
 
 ol{
   background-color:lightgrey;
+  
   margin:0px;
   padding-top:6px;
   
@@ -46,9 +49,11 @@ li{
 
 .box{
   font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+  
   color: white;
   border:1px solid;
   font-size:17px;
+  ;
    }
 
 HR{
@@ -67,3 +72,13 @@ HR{
 .More{
   font-size:14px;
   }
+span.og{
+  word-spacing:9px;
+}
+
+.as{
+  color:grey
+}
+.Iron{
+  font-size:18px
+}
